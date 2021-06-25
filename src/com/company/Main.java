@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("SMS utility work completed");
         System.out.println("Merging done with master");
+        System.out.println("Email feature added.");
     }
 }
